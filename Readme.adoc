@@ -1,4 +1,4 @@
-OpenShift Container Platform - Advanced Deployment - Homework(8 hrs) for Sitaramaprasad Erothu
+OpenShift Container Platform - Advanced Deployment - Homework(8 hrs) for Rajesh Emmadoju
 ==============================================================================================
 
 Version of RHOCP supported by the inventory file: v3.11.51
@@ -13,6 +13,6 @@ Instructions:
 
 1) Order OpenShift HA Homework 8 Lab and login to the system
 2) clone the repo 
-git clone https://github.com/sitaramaprasad-erothu/ocp-homework.git
+git clone https://github.com/RajeshEm/ocp-homework.git
 3) Copy the /ocp-homework/hosts file to /etc/ansible/hosts or you can refer this file location name when running playbook
 4) Follow the attched work document for the remaining steps.
